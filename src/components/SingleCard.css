@@ -1,0 +1,38 @@
+.card-deck {
+  padding-top: 50px;
+}
+.card-title {
+  font-weight: bold;
+  letter-spacing: 3px;
+
+}
+.card-subtitle {
+  padding-bottom: 15px;
+
+}
+.table td {
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 0;
+  padding-bottom: 0;
+  /*border-top: none;*/
+  /*border: 1px solid black;*/
+  font-family: 'Titillium Web', sans-serif;
+  text-align: left;
+  text-transform: capitalize;
+}
+
+.table tr td:first-child {
+  padding-left: 0;
+}
+
+.table {
+  width: 100%;
+}
+
+.table th, .table td {
+  padding: 3px !important;
+}
+.right{
+  float: right;
+}
